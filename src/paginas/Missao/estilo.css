@@ -1,0 +1,14 @@
+.missao-container{
+    padding-top: 90px;
+}
+
+.lista-missao{
+    display: flex;
+    flex-wrap: wrap;
+    border-radius: 9px;
+}
+.img-missao{
+    height: 400px;
+    width: 800px;
+    border-radius: 10px;
+}

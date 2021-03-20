@@ -1,0 +1,26 @@
+.convenios-container{
+    padding-top: 90px;
+}
+
+.lista-planos{
+    display: flex;
+    flex-wrap: wrap;
+    border-radius: 9px;
+}
+
+.lista-planos li{
+    padding: 0 15px;
+    list-style: none;
+    text-align: start;
+    flex: 1;
+    background-color:  #1b3675;
+    border-radius: 15px;
+    color: white;
+    text-align: center;
+    margin: 10px;
+   
+}
+.img-familia{
+    border-radius: 10px;
+}
+

@@ -1,0 +1,14 @@
+.agenda-container{
+    padding-top: 90px;
+}
+
+.lista-agendamento{
+    display: flex;
+    flex-wrap: wrap;
+    border-radius: 9px;
+}
+.img-Odontologia{
+    height: 400px;
+    width: 700px;
+    border-radius: 10px;
+}
