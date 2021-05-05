@@ -1,5 +1,5 @@
 # Almeida Odontologia 🦷
-O objetivo desse projeto á a elaboração de um site de uma clínica odontológica.
+O objetivo desse projeto é a elaboração de um site de uma clínica odontológica.
 
 <img src="/print.PNG" height="380px"/>
 
